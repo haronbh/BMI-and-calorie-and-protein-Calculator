@@ -1,0 +1,4 @@
+#Sat Jul 06 16:14:30 WAT 2024
+base.0=C\:\\Users\\haron\\Desktop\\Sent\\etude\\S6\\miniprojet\\calcul\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
