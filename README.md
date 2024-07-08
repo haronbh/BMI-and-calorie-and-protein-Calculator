@@ -27,20 +27,15 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Installation
 
-1. **Clone the repository:**
 
-    ```bash
-    git clone https://github.com/yourusername/BMI-Protein-Calorie-Calculator.git
-    cd BMI-Protein-Calorie-Calculator
-    ```
 
-2. **Install dependencies:**
+ **Install dependencies:**
 
     ```bash
     flutter pub get
     ```
 
-3. **Run the app:**
+ **Run the app:**
 
     ```bash
     flutter run
